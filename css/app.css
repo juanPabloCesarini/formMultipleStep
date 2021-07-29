@@ -5,10 +5,10 @@
 }
 
 :root {
-    --color-bg-1: #008080;
+    --color-bg-1: #69707A;
     --color-bg-2: #FEF9E7;
-    --color-btn: #2196F3;
-    --color-header-step: orange;
+    --color-btn: #2AC8A2;
+    --color-header-step: #FC7136;
     --color-shadow: #222;
     --color-border-input: #ddd;
 }
